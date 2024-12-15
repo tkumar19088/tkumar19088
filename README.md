@@ -67,6 +67,6 @@ When I'm not working on data models or coding, you'll find me:
 
 ## 🔍 Curiosity Fuels Innovation
 
-I believe curiosity is the driving force behind innovation. Whether it's **designing a CDP for Nissan**, **building digital tools for quick commerce in India**, or **evaluating new investment opportunities**, I’m passionate about tackling complex challenges with creativity and precision.
+I believe curiosity is the driving force behind innovation. Whether it's **Implementing a CDP**, **building digital tools for quick commerce in India**, or **evaluating new investment opportunities**, I’m passionate about tackling complex challenges with creativity and precision.
 
 Let’s collaborate and turn your data into impactful solutions! 🚀
