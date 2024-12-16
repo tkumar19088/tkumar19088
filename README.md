@@ -27,6 +27,13 @@ To simplify technology, inspire innovation, and create impactful digital solutio
 
 ---
 
+## 📊 GitHub Stats
+
+![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkumar19088&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkumar19088&theme=radical)
+
+---
+
 ## 🌟 Skills & Tools
 
 Here are some of the technologies and tools I use:
